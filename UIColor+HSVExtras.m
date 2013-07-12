@@ -4,7 +4,7 @@
 //
 //  Created by Manuel de la Mata on 12/07/13.
 //  Copyright (c) 2013 MMS. All rights reserved.
-//  Inspired in https://github.com/mateagar/Color-Picker-for-iOS
+//  Inspired by https://github.com/mateagar/Color-Picker-for-iOS
 
 #import "UIColor+HSVExtras.h"
 
