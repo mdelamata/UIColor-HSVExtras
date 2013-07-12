@@ -11,7 +11,7 @@ Examples of use
 
 Firstly, import the .h at the header of your file.
 
-  	#import "UIColor-HSVExtras.h"
+  	#import "UIColor+HSVExtras.h"
 
 For example, if you would need to change a parameter of a color using the HSV space color it should be like this:
 
