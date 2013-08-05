@@ -9,7 +9,7 @@ Inspired by https://github.com/mateagar/Color-Picker-for-iOS
 Examples of use
 ------------
 
-Firstly, import the .h at the header of your file.
+Firstly, import the `UIColor+HSVExtras.h` at the header of your file.
 
   	#import "UIColor+HSVExtras.h"
 
